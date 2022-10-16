@@ -1,0 +1,1 @@
+Feature: Select Training Bot Difficulty

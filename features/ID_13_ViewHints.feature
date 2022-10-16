@@ -1,0 +1,1 @@
+Feature: View Hints Against Computer

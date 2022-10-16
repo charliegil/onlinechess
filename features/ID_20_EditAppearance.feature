@@ -1,0 +1,1 @@
+Feature: Edit Chess Board and Pieces Appearance
